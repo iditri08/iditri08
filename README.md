@@ -1,15 +1,15 @@
 # Hi there, I'm Iditri Datta! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7F50&width=435&lines=Front+ENd+Developer;Tech+Enthusiast;Problem+Solver;Data+Analyst;Data+Visualiser;Forex+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7F50&width=435&lines=Front+End+Developer;Tech+Enthusiast;Problem+Solver;Data+Analyst;Data+Visualiser;Forex+Enthusiast)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 
 I'm a passionate developer & data analyst who loves to solve real-world problems with the power of tech and raw data visualisation. Skilled in transforming data into actionable insights through Power BI visualizations. I recognize the critical importance of robust database management and am eager to contribute to well-organized data environments.
 
 
-- 🔭 I'm currently working on an Foreign Exchange Volatality & Risk Measures
-- 🌱 I'm currently learning Power BI & exploring Ml models for optimal prediction analysis. 
-- 👯 I'm looking to collaborate on FinTech based projects.
+- 🔭 I'm currently working on an Foreign Exchange Volatality & Risk Measures project
+- 🌱 I'm currently learning Power BI & exploring ML models for optimal prediction analysis. 
+- 👯 I'm looking to collaborate on FinTech based projects that requires data visualisation.
 - ⚡ Fun fact:  I also actively engage in public speaking and have participated in numerous MUNs and debate competitions.
 
 ## 🛠 Tech Stack
