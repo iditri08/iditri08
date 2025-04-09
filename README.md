@@ -7,7 +7,7 @@
 I'm a passionate developer & data analyst who loves to solve real-world problems with the power of tech and raw data visualisation. Skilled in transforming data into actionable insights through Power BI visualizations. I recognize the critical importance of robust database management and am eager to contribute to well-organized data environments.
 
 
-- 🔭 I'm currently working on an Foreign Exchange Volatality & Risk Measures project
+- 🔭 I'm currently working on an 'Impact of COVID-19 on Forex Markets in India' project.
 - 🌱 I'm currently learning Power BI & exploring ML models for optimal prediction analysis. 
 - 👯 I'm looking to collaborate on FinTech based projects that requires data visualisation.
 - ⚡ Fun fact:  I also actively engage in public speaking and have participated in numerous MUNs and debate competitions.
