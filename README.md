@@ -30,6 +30,11 @@ I'm a passionate developer & data analyst who loves to solve real-world problems
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+### Data Visualization Tools
+![Power BI](https://img.shields.io/badge/-Power%20BI-009DC4?style=flat-square&logo=power-bi&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-452D7A?style=flat-square&logo=tableau&logoColor=white)
+
 ## 📫 How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iditri-datta-441003282/)
